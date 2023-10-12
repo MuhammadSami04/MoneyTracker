@@ -25,14 +25,3 @@ To get started with MoneyTracker, follow these simple steps:
 3. Run the application on your local server.
 4. Start adding transactions, setting budgets, and managing your finances!
 
-
-
-## Contributing
-
-We welcome contributions to MoneyTracker! If you'd like to contribute.
-
-
-
-## Acknowledgments
-
-Feel free to customize this README template to match the specific details and features of your MoneyTracker project. Additionally, don't forget to replace the placeholders, such as "[List of frontend technologies and frameworks]," with the actual technologies you've used in your project.
